@@ -1536,3 +1536,10 @@ section {
   background: #ddd;
   color: black;
 }
+
+@media (max-width: 850px) {
+  .logo-device {
+    margin-bottom: 5%;
+    width: 50%;
+  }
+}
